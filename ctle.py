@@ -21,7 +21,7 @@ wp6 = 2 * np.pi * 32e9
 
 wz2 = abs(a_dc) * wp2
 
-z = [-wz1, -wp2*a_dc, -wz3]
+z = [-wz1, -wz2, -wz3]
 p = [-wp1, -wp2, -wp3, -wp4, -wp5, -wp6]
 g  = (wp1 * wp3 * wp4 * wp5 * wp6) / (wz1 * wz3)
 
