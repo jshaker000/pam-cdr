@@ -1,6 +1,6 @@
 # pam-cdr
 
-This code is designed offer simulations to help one understand and model high speed PAM-N systems (specifically PCIe systems) and is also supplemental material to my thesis titled `Study and simulation of PCIe 6, with an emphasis on the physical layer`.
+This code is designed offer simulations to help one understand and model high speed PAM-N systems (specifically PCIe systems) and is also supplemental material to my thesis titled [Study and simulation of PCIe 6, with an emphasis on the physical layer](https://www.proquest.com/dissertations-theses/study-simulation-pcie-6-with-emphasis-on-physical/docview/2755778475/se-2).
 
 The `impulse_responses` directory contains impulses responses sampled at 128GSa/s of realistic channels from the PCIe 6.0 standard, and include a low loss channel
 and a normal channel and example impulse responses of an aggressor (ie an adjacent cross talk lane). These impulse responses came from extracting s-parameters from
